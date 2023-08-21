@@ -1,1 +1,1 @@
-# algo-invoicer-database-os
+# algo-invoicer-subquery-os
